@@ -11,6 +11,10 @@ A real-estate cost estimation AI that uses Regression Algorithm to predict the p
 
 It uses Gridsearch CV to find out the best Regression Algorithm to choose with HyperParameter Tuning, and a User-friendly Web app to predict the price of houses based on the trained model. 
 
+## Screenshot
+![{6FB3EB8E-C4E0-4604-9997-F4A18720F3BC}](https://github.com/user-attachments/assets/978a1288-bddc-4dc3-b91b-545c91204875)
+
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
